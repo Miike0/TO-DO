@@ -1,5 +1,6 @@
 .idea
-
+Django/.DS_Store
+Django/env
 # Created by https://www.gitignore.io
 
 ### OSX ###
